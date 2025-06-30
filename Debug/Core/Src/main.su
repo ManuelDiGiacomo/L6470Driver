@@ -1,0 +1,9 @@
+../Core/Src/main.c:72:5:main	40	static
+../Core/Src/main.c:167:6:SystemClock_Config	120	static
+../Core/Src/main.c:227:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:273:13:MX_DMA_Init	16	static
+../Core/Src/main.c:290:6:HAL_SPI_TxRxCpltCallback	16	static
+../Core/Src/main.c:298:6:HAL_SPI_ErrorCallback	16	static
+../Core/Src/main.c:311:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:354:16:L6470_PreciseMove	32	static
+../Core/Src/main.c:406:6:Error_Handler	4	static,ignoring_inline_asm
